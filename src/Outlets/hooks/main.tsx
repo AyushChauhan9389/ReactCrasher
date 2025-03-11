@@ -13,6 +13,9 @@ export default function ButtonExample() {
             <Link to="/hooks/useEffect">
                 <Button variant="outline">UseEffect</Button>
             </Link>
+            <Link to="/hooks/useEffect">
+                <Button variant="outline">UseEffect</Button>
+            </Link>
         </div>
     )
 }
